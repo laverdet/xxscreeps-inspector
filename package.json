@@ -12,7 +12,6 @@
     "./*": "./dist/*"
   },
   "dependencies": {
-    "@types/ws": "^7.4.4",
     "chrome-devtools-frontend": "1.0.732322",
     "koa-mount": "^4.0.0",
     "koa-static": "^5.0.0",
@@ -25,6 +24,7 @@
     "@types/koa-mount": "^4.0.0",
     "@types/koa-static": "^4.0.1",
     "@types/uuid": "^8.3.0",
+    "@types/ws": "^7.4.4",
     "typescript": "4.3.2"
   }
 }
